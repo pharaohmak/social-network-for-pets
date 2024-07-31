@@ -1,5 +1,5 @@
 import React from 'react';
-import { Userlist } from './Userlist';
+import { Userlist } from './UserList';
 
 export function Directory(props) {
   return (
